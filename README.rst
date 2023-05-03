@@ -33,7 +33,7 @@ Methods with preconditioning with weight decay regularization
 
 Целью работы является теоретический анализ сходимости методов оптимизации с предобуславливанием с добавлением регуляризации.
 
-Целью эксперимента является сравнение методов оптимизации на практике.
+Целью эксперимента является оценка сходимости методов оптимизации на практике.
 
 
 Research publications
@@ -50,13 +50,3 @@ Research publications
 
 6. STABLE WEIGHT DECAY REGULARIZATION: https://openreview.net/pdf?id=YzgAOeA67xX
 
-
-
-Presentations at conferences on the topic of research
-================================================
-1. 
-
-Software modules developed as part of the study
-======================================================
-1. A python package *mylib* with all implementation `here <https://github.com/intsystems/ProjectTemplate/tree/master/src>`_.
-2. A code with all experiment visualisation `here <https://github.comintsystems/ProjectTemplate/blob/master/code/main.ipynb>`_. Can use `colab <http://colab.research.google.com/github/intsystems/ProjectTemplate/blob/master/code/main.ipynb>`_.
